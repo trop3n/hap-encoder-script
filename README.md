@@ -5,7 +5,7 @@
 
 # Instructions
 
-1. Create a folder somewhere on your computer. Remember that you name it. It should be something that is easy to remember, like "hap_input".
+1. Create a folder somewhere on your computer. Remember what you name it. It should be something that is easy to remember, like "hap_input".
 2. Change the value of the `input_dir` variable to the name of the folder that you created.
 3. Place the .mov files in the input directory that you want HAP encoded.
 4. Run the script in your terminal with `./hap-encoder.sh`.
